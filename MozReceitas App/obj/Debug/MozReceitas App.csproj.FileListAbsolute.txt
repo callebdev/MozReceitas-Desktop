@@ -1,0 +1,13 @@
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\bin\Debug\MozReceitas App.exe.config
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\bin\Debug\MozReceitas App.exe
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\bin\Debug\MozReceitas App.pdb
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas App.csprojResolveAssemblyReference.cache
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas_App.FormLogin.resources
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas_App.Properties.Resources.resources
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas App.csproj.GenerateResource.Cache
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas App.exe
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas App.pdb
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas_App.FormPrincipal.resources
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas_App.FormCadastro.resources
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas_App.FormNovaReceita.resources
+c:\users\calleb j. miquissene\documents\visual studio 2015\Projects\MozReceitas App\MozReceitas App\obj\Debug\MozReceitas_App.FormNovaSenha.resources
